@@ -33,6 +33,3 @@ This project contains both the frontend and backend code for fetching and displa
 - React
 - Axios
 
-## API Key
-
-- Place your News API key in the `.env` file in the `frontend/` directory as `REACT_APP_NEWS_API_KEY`.
